@@ -50,8 +50,8 @@ Open phpmyadmin
 Create Database named “shop”.
 Import database shop.sql.
 Open Your browser put inside URL:
-“http://localhost/store/”
-To Login as admin put inside URL:”http://localhost/store”
+“http://localhost/stores/”
+To Login as admin put inside URL:”http://localhost/stores”
 user login details:
 Login Id: shivu@gmail.com
 password:123456
